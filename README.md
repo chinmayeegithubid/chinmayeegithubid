@@ -1,4 +1,4 @@
-### Hi there 👋 Hi, I'm Chinmayee Nayak
+### 👋 Hi, I'm Chinmayee Nayak
 👩‍💼 Consultant in Advisory @KPMG
 💼 Key Skills: SQL || PL/SQL || SQL Server || Python || Machine Learning || AI
 🌟 Passionate about data-driven solutions and the world of AI
