@@ -1,25 +1,51 @@
 ### 👋 Hi, I'm Chinmayee Nayak
 
-I'm a passionate AI and Data Science professional currently working as a Consultant at **KPMG**.  
-I love building smart, impactful solutions using Generative AI, Python, Streamlit, and cloud tools.
+<sub>AI & Data Science Consultant at <b>KPMG</b> | Passionate about building meaningful tech</sub>  
+
+💡 I create impactful solutions using  
+**Generative AI**, **Python**, **Streamlit**, and **Cloud Tools**.
+
 ---
 
-### 💡 What Drives Me
-Crafting smart applications that blend data, creativity, and automation to solve real-world problems across finance, sustainability, and healthcare.
+### 🔍 What Drives Me
+
+<sub>Blending data, creativity, and automation to solve real-world problems across:</sub>  
+- 💰 Finance  
+- 🌱 Sustainability  
+- 🏥 Healthcare  
+
 ---
-### 🛠️ Featured Projects
-- 🌱 [AI Carbon Footprint Calculator](https://carbon-app.streamlit.app)  
-   _Estimate CO₂ emissions + get Gemini-powered climate advice_  
-- 🏦 [Bank Statement Extractor](https://github.com/chinmayeegithubid/BankStatement-Extractor)  
-   _AI-OCR + LLM to extract insights from financial documents_  
-- 🧬 HealthNutriSnapAI, Insurance Fraud Detector, and more...
+
+### 🚀 Featured Projects
+
+- 🟢 [AI Carbon Footprint Calculator](https://carbon-app.streamlit.app)  
+  <sub><i>Estimate CO₂ emissions + get Gemini-powered climate advice</i></sub>
+
+- 🧾 [Bank Statement Extractor](https://github.com/chinmayeegithubid/BankStatement-Extractor)  
+  <sub><i>AI-OCR + LLM to extract insights from financial documents</i></sub>
+
+- 🥗 HealthNutriSnapAI, Insurance Fraud Detector, and more...
+
 ---
-### 🌟 Tech Stack
-`Python` | `Streamlit` | `GenAI` | `LLMs` | `Scikit-learn` | `Pandas` | `SQL` | `PL/SQL` |'MSSQL'|'ML/AI'| 
-`Google Gemini` | `NLP` | `Computer Vision` | `Cloud Functions` | `APIs` | `Data Pipelines`||'Database Development'|'Data Integration'
+
+### 🛠️ Tech Stack
+
+| Area             | Tools & Technologies                     |
+|------------------|-------------------------------------------|
+| AI & ML          | Gemini AI, Scikit-learn, LLMs             |
+| Programming      | Python, SQL, PLSQL,Mssql                       |
+| Visualization    | Streamlit, Matplotlib, Pandas,Seaborn             |
+| Backend & APIs   | REST APIs, FastAPI, Flask                 |
+| Deployment       | Streamlit Cloud, GitHub Pages             |
+| Styling & Frontend | HTML, CSS, Custom Markdown              |
+
 ---
-### 🔗 Let’s Connect
-- 💼 [LinkedIn – Chinmayee Nayak](https://www.linkedin.com/in/chinmayee-n-134388187/)
-- 📬 Open to collaborations, ideas, and learning together!
+
+### 🤝 Let's Connect
+
+- 🔗 [LinkedIn – Chinmayee Nayak](https://www.linkedin.com/in/chinmayee-n-134388187/)
+- 💬 Always open to connect, collaborate, or brainstorm new ideas!
+
 ---
-_“Blending creativity with AI to build purposeful solutions.”_ 🌍✨
+
+<sub>✨ "Tech with purpose creates real-world impact." ✨</sub>
