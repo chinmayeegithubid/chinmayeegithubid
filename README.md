@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Chinmayee Nayak
 
-<sub>AI & Data Science Consultant at <b>KPMG</b> | Passionate about building meaningful tech</sub>  
+<sub>Delivery Module Lead- Python_AI & Data Science  at <b>Mphasis</b> | Passionate about building meaningful tech</sub>  
 
 💡 I create impactful solutions using  
 **Generative AI**, **Python**, **Streamlit**, and **Cloud Tools**.
