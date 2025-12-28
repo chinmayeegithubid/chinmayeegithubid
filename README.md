@@ -1,4 +1,4 @@
-![Banner](./Banner.png)
+<img src="./banner.png" width="100%">
 
 👋 Hi, I’m Chinmayee Nayak  
 
