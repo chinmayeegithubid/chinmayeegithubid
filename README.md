@@ -1,6 +1,6 @@
 👋 Hi, I’m Chinmayee Nayak  
 
-🚀 Data & AI Engineer | SQL • PL/SQL • ETL • Python • Generative AI  
+🚀 Data & AI Engineer | SQL • PL/SQL • ETL • Python • ML & AI .Generative AI 
 💼 Delivery Module Lead @ Mphasis  
 🌱 Turning complex data into intelligent, real-world solutions
 
