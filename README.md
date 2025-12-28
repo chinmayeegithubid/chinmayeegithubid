@@ -1,3 +1,5 @@
+![Banner](./banner.png
+
 👋 Hi, I’m Chinmayee Nayak  
 
 🚀 Data & AI Engineer | SQL • PL/SQL • ETL • Python • ML & AI  • Generative AI 
